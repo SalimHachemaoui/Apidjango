@@ -22,3 +22,6 @@
 by : salim hachemaoui 
 e-mail: shachemaoui544@gmail.com
 
+<a href="https://app.codiga.io/public/user/github/SalimHacheamoui">
+   <img src="https://api.codiga.io/public/badge/user/github/SalimHacheamoui?style=light" alt="codiga badge" />
+</a>
