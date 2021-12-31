@@ -1,4 +1,10 @@
  ## Django REST API
+ 
+ <a href="https://app.codiga.io/public/user/github/SalimHacheamoui">
+   <img src="https://api.codiga.io/public/badge/user/github/SalimHacheamoui?style=light" alt="codiga badge" />
+</a>
+
+
  ### Restaurant & French & Kabyle translation example
 
  #### Getting started
